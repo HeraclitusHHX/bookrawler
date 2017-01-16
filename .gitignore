@@ -91,3 +91,6 @@ ENV/
 #MacOS
 .DS_Store
 .idea/
+
+# Debug server config
+instance/
